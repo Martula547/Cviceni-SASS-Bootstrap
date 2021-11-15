@@ -1,4 +1,4 @@
-# Cvičení: SASS Bootstrap
+npm# Cvičení: SASS Bootstrap
 
 Tvým úkolem bude donapojit do stránky Bootstrap a přizpůsobit jeho barvy. Výsledek by měl vypadat takto:
 
